@@ -1,13 +1,11 @@
-# Quarto-themer-theme Extension For Quarto
+# Revealjs themes based on xaringanthemer
 
-_TODO_: Add a short description of your extension.
+This Quarto extension provides users with themes for revealjs presentations based on [xarignanthemer](https://pkg.garrickadenbuie.com/xaringanthemer/index.html).
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto add <github-organization>/quarto-themer-theme
+quarto add stefanocoretta/quarto-themer-theme
 ```
 
 This will install the extension under the `_extensions` subdirectory.
@@ -15,7 +13,13 @@ If you're using version control, you will want to check in this directory.
 
 ## Using
 
-_TODO_: Describe how to use your extension.
+As of now, there is only one theme available: the mono-light theme.
+
+```yaml
+---
+format: mono-light-revealjs
+---
+```
 
 ## Example
 
