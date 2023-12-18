@@ -5,7 +5,7 @@ This Quarto extension provides users with themes for revealjs presentations base
 ## Installing
 
 ```bash
-quarto add stefanocoretta/quarto-xthemer-theme
+quarto add stefanocoretta/xthemer
 ```
 
 This will install the extension under the `_extensions` subdirectory.

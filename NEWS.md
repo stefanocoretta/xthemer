@@ -1,5 +1,9 @@
 # News
 
+## v0.1.2
+
+- Rename extension repo.
+
 ## v0.1.1
 
 - Embed Tachyons css for further customisation.
