@@ -31,10 +31,18 @@ cat(a)
 
 ## Tachyons
 
+The extension imports [Tachyons](https://tachyons.io), which can be used to design a variety of objects like the following box (see `example.qmd` for the source code).
+
 ::: {.bg-washed-blue .b--dark-blue .ba .bw2 .br3 .shadow-2 .ph4}
 **This is a nice box**
 
 - And you can
 - even add some
 - lists.
+:::
+
+And this Download button.
+
+::: {.f6 .grow .no-underline .br-pill .ph3 .pv2 .mb2 .dib .white .bg-purple}
+Download
 :::
