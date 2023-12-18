@@ -38,3 +38,8 @@ $dark-bg-text-color: $white-color !default; // style-inverse_background_color
   margin-top: 32px;
   margin-bottom: 32px;
 }
+
+// make text of blockquote white if in slide with dark background
+section.has-dark-background blockquote {
+  color: $white-color;
+}

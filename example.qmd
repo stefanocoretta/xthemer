@@ -5,7 +5,7 @@ institute: "University of Where"
 format: mono-light-revealjs
 ---
 
-## Heading
+## Mono light
 
 This theme is based on the xaringanthemer style "mono light": <https://pkg.garrickadenbuie.com/xaringanthemer/reference/style_mono_light.html>.
 
@@ -15,6 +15,14 @@ And here is some code:
 a <- 1 + 3
 cat(a)
 ```
+
+## Typography
+
+This is *italics* and this is **bold text**.
+
+> Just a simple quote.
+
+---Nobody
 
 ## Dark background {background-color=var(--inverse)}
 
@@ -28,6 +36,8 @@ A list:
 a <- 1 + 3
 cat(a)
 ```
+
+> Just a simple quote.
 
 ## Tachyons
 

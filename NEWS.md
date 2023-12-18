@@ -1,5 +1,9 @@
 # News
 
+## v0.1.3
+
+- Set quote text to ligher colour when the slide backround is dark.
+
 ## v0.1.2
 
 - Rename extension repo.
