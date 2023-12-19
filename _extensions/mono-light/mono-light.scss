@@ -14,11 +14,14 @@ $presentation-h2-font-size: 2.5rem !default; // style-header_h2_font_size
 $code-block-font-size: 0.9rem !default; // style-code_font_size
 
 // colors
+// base-color is the "primary" color of the theme
 $base-color: #23395b !default; // style-base_color
 $white-color: sass-color.scale($base-color, $lightness: +90%) !default; // style-white_color
 $dark-color: sass-color.scale($base-color, $blackness: +30%) !default; // style-black_color
+// body-color is the text color
 $body-color: $dark-color !default; // style-text_color
 $presentation-heading-color: $base-color !default; // style-header_color
+// body-bg is the slide background color
 $body-bg: $white-color !default; // style-background_color
 $link-color: #924238 !default; // style-link_color
 $dark-bg-text-color: $white-color !default; // style-inverse_background_color
