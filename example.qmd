@@ -2,7 +2,9 @@
 title: "Mono light theme example"
 author: "Some Body"
 institute: "University of Where"
-format: mono-light-revealjs
+format:
+    mono-light-revealjs:
+        theme: [default, custom.scss]
 ---
 
 ## Mono light
@@ -59,9 +61,15 @@ Download
 
 ## Customisation
 
-To customise the theme, use the `custom.scss` file.
+To customise the theme, you need to set `theme: [default, custom.scss]` and use `custom.scss` file, like so.
 
-For example, if you want to change the base colour of the theme to a green hue, add the following to the `custom.scss` file:
+```yaml
+format:
+    mono-light-revealjs:
+        theme: [default, custom.scss]
+```
+
+You can customise now the theme in `custom.scss`. For example, if you want to change the base colour of the theme to a green hue, add the following to the `custom.scss` file:
 
 ```scss
 /*-- scss:defaults --*/

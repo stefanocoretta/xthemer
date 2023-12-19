@@ -1,3 +1,7 @@
+## v0.1.5
+
+- Changed customisation method to allow for optional `custom.scss` file.
+
 ## v0.1.4
 
 - Add customisation option.
