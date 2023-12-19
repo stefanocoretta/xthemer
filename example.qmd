@@ -56,3 +56,18 @@ And this Download button.
 ::: {.f6 .grow .no-underline .br-pill .ph3 .pv2 .mb2 .dib .white .bg-purple}
 Download
 :::
+
+## Customisation
+
+To customise the theme, use the `custom.scss` file.
+
+For example, if you want to change the base colour of the theme to a green hue, add the following to the `custom.scss` file:
+
+```scss
+/*-- scss:defaults --*/
+$base-color: #136f63;
+```
+
+<br>
+
+For a list of customisable variables, see `_extensions/mono-light/mono-light.scss` and [Sass variables](https://quarto.org/docs/presentations/revealjs/themes.html#sass-variables).

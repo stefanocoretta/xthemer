@@ -1,4 +1,6 @@
-# News
+## v0.1.4
+
+- Add customisation option.
 
 ## v0.1.3
 
