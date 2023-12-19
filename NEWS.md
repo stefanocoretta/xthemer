@@ -1,3 +1,7 @@
+## v0.1.6
+
+- Add "mono-dark" theme.
+
 ## v0.1.5
 
 - Changed customisation method to allow for optional `custom.scss` file.
