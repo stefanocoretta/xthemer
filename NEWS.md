@@ -1,3 +1,11 @@
+## v.1.7
+
+- Fix darker and ligher colours.
+
+- Set `$text-muted`to 50% alpha.
+
+- Set blockquote text colour to `$body-color`.
+
 ## v0.1.6
 
 - Add "mono-dark" theme.
