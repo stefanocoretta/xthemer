@@ -13,11 +13,12 @@ If you're using version control, you will want to check in this directory.
 
 ## Using
 
-As of now, there is only one theme available: the mono-light theme.
+As of now, there are only two themes available: the mono-light and mono-dark themes.
 
 ```yaml
 ---
 format: mono-light-revealjs
+# format: mono-dark-revealjs
 ---
 ```
 
