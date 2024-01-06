@@ -1,3 +1,7 @@
+## v.1.8
+
+- Import tachyons from url.
+
 ## v.1.7
 
 - Fix darker and ligher colours.
