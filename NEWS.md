@@ -1,8 +1,12 @@
-## v.1.8
+## v0.1.9
+
+- Add "mono-accent" and "mono-accent-invere" themes.
+
+## v0.1.8
 
 - Import tachyons from url.
 
-## v.1.7
+## v0.1.7
 
 - Fix darker and ligher colours.
 
