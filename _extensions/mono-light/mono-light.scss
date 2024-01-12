@@ -64,11 +64,6 @@ $dark-bg-text-color: $lighter-color !default; // style-inverse_background_color
   --inverse: #{$base-color};
 }
 
-// style-padding
-.reveal .slide {
-  padding: 16px 64px 16px 64px;
-}
-
 .reveal .slide h2 {
   margin-top: 32px;
   margin-bottom: 32px;

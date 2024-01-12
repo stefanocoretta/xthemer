@@ -1,3 +1,9 @@
+## v0.1.10
+
+- Remove tachyons in favour of tachyons and tachyonsextra extensions.
+
+- Remove padding rule and use `margin` option instead.
+
 ## v0.1.9
 
 - Add "mono-accent" and "mono-accent-invere" themes.
